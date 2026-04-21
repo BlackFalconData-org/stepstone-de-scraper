@@ -9,6 +9,7 @@ Extract structured data from [stepstone.de](https://stepstone.de) — Germany's 
 ## Key features
 
 
+
 **Search with filters** — Search by keyword and location. Filter by federal state (bundesland), sort by, radius (km), and more.
 
 **Multiple input modes** — full (all jobs) or incremental (new/changed only). Switch modes without re-scraping.
@@ -34,6 +35,7 @@ Extract structured data from [stepstone.de](https://stepstone.de) — Germany's 
 ---
 
 ## Use cases
+
 
 
 **Data pipeline automation**
@@ -252,6 +254,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
