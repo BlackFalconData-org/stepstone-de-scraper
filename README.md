@@ -2,7 +2,22 @@
 
 Extract structured data from [stepstone.de](https://stepstone.de) — Germany's largest job board stepstone.de for structured job data including salary range, skills, and employment type. Incremental mode tracks new and changed jobs across runs via a stable stateKey. Filter by German federal state (bundesland) or a radius around any city.
 
-**[StepStone.de Scraper - Germany Job Listings, Salary & Skills on Apify →](https://apify.com/blackfalcondata/stepstone-de-scraper?fpr=1h3gvi)**
+**[StepStone.de Jobs Scraper 💰 $1.50/1K on Apify →](https://apify.com/blackfalcondata/stepstone-de-scraper?fpr=1h3gvi)**
+
+
+## 🚀 How to use this actor
+
+> ### 💚 $5 free Apify credits — every month
+> No credit card required. No commitment. Cancel anytime.
+
+### 👉 [Sign up free on Apify →](https://console.apify.com/sign-up?fpr=1h3gvi)
+
+1. **Click sign up** — pick GitHub, Google, or email; takes ~30 seconds
+2. **Open this actor** — input is pre-filled with a working example
+3. **Click Start** — export results as JSON, CSV, or Excel
+
+Your **$5 monthly platform credit** is enough to run this actor right away — and again every month — scraping typically several hundred to several thousand results per run, depending on your input.
+
 
 ---
 
@@ -10,11 +25,12 @@ Extract structured data from [stepstone.de](https://stepstone.de) — Germany's 
 
 
 
-**Search with filters** — Search by keyword and location. Filter by federal state (bundesland), sort by, radius (km), and more.
+
+**Search with filters** — Search by keyword and location. Filter by federal state (bundesland), 🔀 sort by, 📡 radius (km), and more.
 
 **Multiple input modes** — full (all jobs) or incremental (new/changed only). Switch modes without re-scraping.
 
-**Detail enrichment** — Fetch full job descriptions, salary data, employer profiles for each listing.
+**Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, contact information for each listing.
 
 **Incremental mode** — Only get new or changed listings since your last run. Content hash per listing — no duplicates, no re-processing.
 
@@ -38,6 +54,7 @@ Extract structured data from [stepstone.de](https://stepstone.de) — Germany's 
 
 
 
+
 **Data pipeline automation**
 Integrate with your ETL pipeline to collect structured listings from stepstone.de on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
 
@@ -49,6 +66,9 @@ Run daily or hourly in incremental mode to capture only new, updated, or expired
 
 **Compensation benchmarking**
 Aggregate salary ranges across roles, industries, and locations on stepstone.de to inform pricing decisions, hiring plans, or candidate negotiations.
+
+**Lead generation**
+Extract employer contact details alongside listings to build outreach lists for recruiters, staffing agencies, or B2B sales teams.
 
 **AI / LLM training data**
 Structured JSON per listing is ready for RAG pipelines, embeddings, and agent workflows. Compact mode trims tokens for LLM context windows.
@@ -257,12 +277,13 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 
 
 
+
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
+- [LinkedIn Jobs Scraper](https://apify.com/blackfalcondata/linkedin-jobs-scraper?fpr=1h3gvi) — World's largest professional network — global job listings, no login required
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
 - [Arbeitsagentur Scraper](https://apify.com/blackfalcondata/arbeitsagentur-scraper?fpr=1h3gvi) — Germany's official job portal (1M+ listings)
 - [SEEK Scraper](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi) — Australia & NZ's largest job board
-- [Naukri Scraper](https://apify.com/blackfalcondata/naukri-scraper?fpr=1h3gvi) — India's largest job portal
 
 ---
 
